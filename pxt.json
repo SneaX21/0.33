@@ -3,7 +3,8 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "builder": "*"
+        "builder": "*",
+        "makecode-minecraft-mob-events": "github:microsoft/makecode-minecraft-mob-events#4940c1da87b203c63780ef869e0186cb906dbbeb"
     },
     "files": [
         "main.ts",
